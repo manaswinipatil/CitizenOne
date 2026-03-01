@@ -1,8 +1,23 @@
 # CitizenOne
 
-CitizenOne is a **citizen-centric web application MVP** designed to help users **report, track, and resolve campus and community issues** in a transparent and accountable manner.
+CitizenOne is a **citizen-centric web application MVP** designed to help users report, track, and resolve campus and community issues in a transparent and accountable manner.
 
 This project was developed as part of a **GDG on Campus – TechSprint Hackathon** under the **Open Innovation** problem statement.
+
+---
+
+## 👩‍💻 Team Members
+- Manaswini P
+- [Friend Name]
+
+---
+
+## 🤝 My Contribution
+- Developed backend functionalities using Flask
+- Implemented issue reporting and status tracking logic
+- Integrated frontend with backend APIs
+- Assisted in UI improvements and debugging
+- Contributed to testing and deployment
 
 ---
 
@@ -20,12 +35,10 @@ CitizenOne addresses this gap by providing a simple platform where:
 ## 💡 Solution Overview
 
 CitizenOne provides:
-- A **citizen interface** to report issues with descriptions and images
-- An **administrator dashboard** to monitor, update, and resolve reported issues
-- A **status tracking system** to ensure transparency
-- A **rating and feedback mechanism** so resolved issues cannot be ignored
-
-The application is designed to be usable even by **non-technical users**.
+- A citizen interface to report issues with descriptions and images
+- An administrator dashboard to monitor, update, and resolve reported issues
+- A status tracking system to ensure transparency
+- A rating and feedback mechanism after resolution
 
 ---
 
@@ -36,7 +49,7 @@ The application is designed to be usable even by **non-technical users**.
 - Track issue status (Pending / In Progress / Resolved)
 - Admin-only access for issue management
 - Feedback and rating after issue resolution
-- Simple and clean UI for quick adoption
+- Clean and user-friendly UI
 
 ---
 
@@ -50,10 +63,22 @@ The application is designed to be usable even by **non-technical users**.
 - Python (Flask Framework)
 
 ### Tools & Platforms
-- GitHub (Version Control)
+- Git & GitHub
 - Netlify (MVP Hosting)
 - Stitch (UI Prototype Design)
 
 ---
 
-## 📁 Project Structure
+## 💻 How to Run
+
+1. Clone the repository
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the Flask app:
+   python app.py
+4. Open in browser: http://localhost:5000
+
+---
+
+## 📎 Note
+This project was developed collaboratively as part of a hackathon team.
