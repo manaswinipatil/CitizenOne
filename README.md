@@ -8,7 +8,7 @@ This project was developed as part of a **GDG on Campus – TechSprint Hackathon
 
 ## 👩‍💻 Team Members
 - Manaswini P
-- [Jahnavi P]
+- Jahnavi P
 
 ---
 
